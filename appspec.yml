@@ -1,0 +1,13 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/site-php5
+permissions:
+  - object: /var/www/site-php5
+    pattern: "*"
+    owner: www-data
+    group: www-data
+    mode: 755
+    
+

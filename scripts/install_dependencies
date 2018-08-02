@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /var/www/site-php5/
+npm start
+#sudo apt-get install apache2 -y
