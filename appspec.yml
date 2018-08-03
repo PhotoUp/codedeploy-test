@@ -2,12 +2,10 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/site-php5
+    destination: /var/www/laravel
 permissions:
-  - object: /var/www/site-php5
+  - object: /var/www/laravel
     pattern: "*"
     owner: www-data
     group: www-data
     mode: 755
-    
-
