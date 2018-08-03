@@ -9,11 +9,3 @@ permissions:
     owner: www-data
     group: www-data
     mode: 755
-permissions:
-  - object: /var/www/laravel
-    pattern: "bootstrap/cache"
-    owner: www-data
-    group: www-data
-    mode: 777
-
-
