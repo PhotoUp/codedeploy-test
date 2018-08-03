@@ -1,0 +1,25 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo install phase installing packages in the build environment...
+      - php -v
+      - npm -v
+      - node -v
+      - composer --version
+  pre_build:
+    commands:
+      - echo pre_build phase install npm dependencies...
+      - composer install
+      - npm install
+  build:
+    commands:
+      - echo Build started on `date`  use this phase to run each command..
+
+  post_build:
+    commands:
+      - echo Build completed on `date` command run after the build..
+artifacts:
+  files: 
+- '**/*'
