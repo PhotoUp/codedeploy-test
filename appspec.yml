@@ -3,6 +3,7 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/laravel
+    overwrite: true
 permissions:
   - object: /var/www/html/laravel
     pattern: "*"
