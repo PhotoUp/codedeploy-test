@@ -3,9 +3,8 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/laravel
-
-#   overwrite: true
-#hooks:
-#  AfterInstall:
-#    - location: scripts/set-permissions.sh
-#      timeout: 60
+  overwrite: true
+hooks:
+ AfterInstall:
+   - location: scripts/set-permissions.sh
+     timeout: 60
