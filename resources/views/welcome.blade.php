@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Inday Laravel
+                    Inday Laravel Bisaya
                 </div>
 
                 <div class="links">
