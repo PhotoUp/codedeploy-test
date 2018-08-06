@@ -9,4 +9,5 @@ permissions:
     pattern: "*"
     owner: www-data
     group: www-data
+  - object: /var/www/html/laravel/storage
     mode: 755
