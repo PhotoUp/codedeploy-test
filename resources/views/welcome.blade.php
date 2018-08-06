@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Inday Laravel Bisaya Taga Cebu
+                    Inday Lara Bisaya On The Mix
                 </div>
 
                 <div class="links">
