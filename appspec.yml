@@ -6,5 +6,6 @@ files:
   overwrite: true
 hooks:
  AfterInstall:
-  - location: scripts/set-permissions.sh
-    timeout: 60
+    - location: scripts/set-permissions.sh
+      timeout: 300
+      runas: root
