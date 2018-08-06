@@ -4,11 +4,6 @@ files:
   - source: /
     destination: /var/www/html/laravel
     overwrite: true
-permissions:
-  - object: /var/www/html/laravel
-    pattern: "*"
-    owner: www-data
-    group: www-data
-  - object: /var/www/html/laravel/storage
-    pattern: "*"
-    mode: 755
+hooks:
+  AfterInstall:
+    - location: scripts/set-permissions.sh
