@@ -7,3 +7,4 @@ files:
 #hooks:
 #  AfterInstall:
 #    - location: scripts/set-permissions.sh
+#      timeout: 60
