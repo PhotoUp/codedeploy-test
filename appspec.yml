@@ -3,7 +3,7 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/laravel
-    overwrite: true
+#   overwrite: true
 #hooks:
 #  AfterInstall:
 #    - location: scripts/set-permissions.sh
