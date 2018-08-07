@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /
-    overwrite: true
     destination: /var/www/html/laravel
+    overwrite: true
     
 #hooks:
 # AfterInstall:
