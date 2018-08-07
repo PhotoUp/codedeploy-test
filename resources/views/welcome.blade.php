@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Inday Lara On The Mix
+                    DJ Lara On The Mix
                 </div>
 
                 <div class="links">
