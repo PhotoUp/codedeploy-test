@@ -5,8 +5,8 @@ files:
     overwrite: true
     destination: /var/www/html/laravel
     
-hooks:
- AfterInstall:
-    - location: scripts/set-permissions.sh
-      timeout: 300
-      runas: root
+#hooks:
+# AfterInstall:
+#    - location: scripts/set-permissions.sh
+#      timeout: 300
+#      runas: root
