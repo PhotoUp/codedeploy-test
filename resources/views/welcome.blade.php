@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    DJ Lara On The Mix
+                    DJ Larang On The Mix
                 </div>
 
                 <div class="links">
