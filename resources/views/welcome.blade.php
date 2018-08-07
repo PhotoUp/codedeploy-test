@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Inday Lara Bisaya On The Mix
+                    Inday Lara Taga Cebu On The Mix
                 </div>
 
                 <div class="links">
