@@ -7,5 +7,4 @@ files:
 hooks:
  AfterInstall:
     - location: scripts/set-permissions.sh
-      timeout: 200
-      runas: root
+      timeout: 300
