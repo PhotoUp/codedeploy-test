@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel Live</title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    DJ Larang On The Mix
+                    DJ Eeehm On The Mix
                 </div>
 
                 <div class="links">
