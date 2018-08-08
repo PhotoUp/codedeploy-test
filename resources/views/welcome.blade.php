@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    DJ Eeehm On The Mix
+                    Hello World!
                 </div>
 
                 <div class="links">
