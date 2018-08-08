@@ -2,10 +2,10 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/laravel```
+    destination: /var/www/html/laravel
     overwrite: true
 hooks:
  AfterInstall:
     - location: scripts/set-permissions.sh
-      timeout: 300
+      timeout: 200
       runas: root
